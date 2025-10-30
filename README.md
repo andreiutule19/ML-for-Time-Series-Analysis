@@ -30,30 +30,38 @@ Below are figures that illustrate the key parts of the analysis. Images are stor
 
 ### Correlation structure
 ![Correlation matrix](images/cor_matrix.png)
+
 *Correlation heatmap showing the pairwise relationships between measured variables.*
 
 ### Explained variance
 ![Explained variance](images/explained%20variance.png)
+
 *Scree / explained-variance plot used to choose the number of principal components or components retained for analysis.*
 
 ### Feature importance
 ![Feature importance](images/feature%20importance.png)
+
 *Model-derived ranking of the most important predictors for the forecasting model.*
 
 ### Confusion matrix and model diagnostics
 ![Confusion matrix](images/confusion%20matrix.png)
+
 *If classification-style evaluation is used, this confusion matrix visualizes true vs predicted categories. For regression/forecasting, analogous diagnostic plots are included in the notebook.*
 
 ### Clustering and elbow analysis
 ![Elbow for KMeans](images/elbow%20for%20kmeans.png)
+
 *Elbow plot for selecting K in KMeans clustering.*
 
 ![KMeans clustering](images/kmeans%20clustering.png)
+
 *Illustrative clustering of observations in a reduced-dimension space.*
 
 ### Forecast examples and meteorological visuals
 ![XGBoost forecast example](images/xboost%20forecast.png)
+
 *Example forecast from a boosting model; may show predicted vs actual pollutant levels.*
 
 ![Temperature over CBWD](images/temperature%20over%20cbwd.png)
+
 *An example visualization comparing temperature trends across wind-direction categories.*
