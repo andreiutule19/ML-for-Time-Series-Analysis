@@ -1,4 +1,4 @@
-# Beijing Air Quality — TSA Lab 3
+# Beijing Air Quality — ML for TSA 
 
 This repository contains materials for Lab 3 of a Time Series Analysis (TSA) project focusing on Beijing air quality data. The analysis explores relationships between meteorological variables and air pollution, performs clustering and dimensionality reduction, and builds forecasting models.
 
